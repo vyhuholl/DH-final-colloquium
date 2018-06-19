@@ -1,0 +1,45 @@
+Source,Type,Target,Weight
+Angels,Undirected,Judas,1
+Annas,Undirected,Apostles,1
+Annas,Undirected,Caiaphas,4
+Annas,Undirected,Ensemble,2
+Annas,Undirected,Jesus,1
+Annas,Undirected,Judas,3
+Annas,Undirected,Peter,1
+Annas,Undirected,Priests,1
+Apostles,Undirected,Caiaphas,1
+Apostles,Undirected,Ensemble,1
+Apostles,Undirected,Jesus,5
+Apostles,Undirected,Judas,4
+Apostles,Undirected,Mary,1
+Apostles,Undirected,Peter,1
+Caiaphas,Undirected,Company,1
+Caiaphas,Undirected,Ensemble,3
+Caiaphas,Undirected,Jesus,3
+Caiaphas,Undirected,Judas,3
+Caiaphas,Undirected,Peter,1
+Caiaphas,Undirected,Pilate,1
+Caiaphas,Undirected,Priests,1
+Company,Undirected,Herod,1
+Company,Undirected,Jesus,1
+Company,Undirected,Simon,1
+Ensemble,Undirected,Jesus,5
+Ensemble,Undirected,Judas,2
+Ensemble,Undirected,Peter,1
+Ensemble,Undirected,Pilate,2
+Ensemble,Undirected,Soldier,1
+Jesus,Undirected,Judas,4
+Jesus,Undirected,Mary,2
+Jesus,Undirected,Peter,1
+Jesus,Undirected,Pilate,2
+Jesus,Undirected,Soldier,1
+Judas,Undirected,Mary,1
+Judas,Undirected,Peter,1
+Maid,Undirected,Old Man,1
+Maid,Undirected,Peter,1
+Maid,Undirected,Soldier,1
+Mary,Undirected,Peter,1
+Old Man,Undirected,Peter,1
+Old Man,Undirected,Soldier,1
+Peter,Undirected,Soldier,1
+Pilate,Undirected,Soldier,1
